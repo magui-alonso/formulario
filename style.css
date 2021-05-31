@@ -1,0 +1,24 @@
+.containerForm {
+    width: 50%;
+    background-color: grey;
+    padding: 20px;
+}
+.campos-form {
+    display: flex;
+    flex-direction: column;
+}
+.label-form {
+    font-family: sans-serif;
+    color: #ffffff;
+}
+#botonEnviar{
+width: 100px;
+height: 40px;
+color: grey;
+background-color: #ffffff;
+font-family: sans-serif;
+border-radius: 5px;
+}
+.gracias {
+    color: grey;
+}
